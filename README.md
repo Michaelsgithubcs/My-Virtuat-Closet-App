@@ -33,7 +33,21 @@ This project was developed by a group of classmates (5 members including me) as 
 🚧 Additional enhancements and polish in progress (e.g., cloud storage, advanced try-on logic)
 
 📸 Screenshots (Optional)
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/2347de83-6224-47a8-85ce-333ae413ecf2" />
 
+<img width="270" alt="image" src="https://github.com/user-attachments/assets/44514e3b-651f-4c42-b68d-078cd9c1a5fd" />
+
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/e2117ee3-8230-46b9-ab21-6ccf96a9a0c6" />
+
+<img width="258" alt="image" src="https://github.com/user-attachments/assets/4875bec5-7d55-42a9-bc37-038ae2bbd57b" />
+
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/f4d3dcf0-605c-4669-9e0d-c4e16534571c" />
+
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/5eed5970-de24-4e72-9ab9-dba8f4e44397" />
+
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/72f48aee-a61b-4706-8115-b425e4805913" />
+
+<img width="176" alt="image" src="https://github.com/user-attachments/assets/32619198-cafe-4286-939e-8bd49e5008da" />
 
 
 🚀 How to Run
