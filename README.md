@@ -23,9 +23,6 @@ MyVirtualCloset is an Android app developed using Jetpack Compose for a sleek, m
 	•	Retrofit (included for potential future API use)
 	•	Material 3 + Compose UI components
 
-🧑‍💻 Team
-
-This project was developed by a group of classmates (5 members including me) as part of a school project in mobile development. Each member contributed to different aspects of the project such as UI design, database logic, and user authentication.
 
 🧪 Status
 
