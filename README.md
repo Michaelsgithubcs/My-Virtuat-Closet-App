@@ -1,4 +1,4 @@
-#👗 MyVirtualCloset
+# 👗 MyVirtualCloset
 
 MyVirtualCloset is an Android app built with Jetpack Compose for a sleek, modern UI.
 It helps users manage their wardrobe digitally — allowing them to add, organize, favorite, and try on clothing items virtually.
@@ -7,7 +7,7 @@ This project was developed as part of a school group assignment to showcase mobi
 
 ⸻
 
-##📱 Features
+## 📱 Features
 
 •	🧥 Virtual Closet: Upload and categorize clothing items with images.
  
@@ -30,7 +30,7 @@ This project was developed as part of a school group assignment to showcase mobi
 •	💾 SQLite Integration: Efficient local data storage with SQLite.
 
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 •	Kotlin + Jetpack Compose
  
@@ -48,7 +48,7 @@ This project was developed as part of a school group assignment to showcase mobi
 
 ⸻
 
-##🧪 Project Status
+## 🧪 Project Status
 
 •	✅ Core features fully functional
  
@@ -56,7 +56,7 @@ This project was developed as part of a school group assignment to showcase mobi
 
 ⸻
 
-##📸 Screenshots
+## 📸 Screenshots
 
 <p align="center">
   <img width="250" src="https://github.com/user-attachments/assets/2347de83-6224-47a8-85ce-333ae413ecf2" />
@@ -74,7 +74,7 @@ This project was developed as part of a school group assignment to showcase mobi
   <img width="180" src="https://github.com/user-attachments/assets/32619198-cafe-4286-939e-8bd49e5008da" />
 </p>
 
-##🚀 Getting Started
+## 🚀 Getting Started
 	1.	Clone the repository:
 
      git clone https://github.com/your-username/MyVirtualCloset.git
