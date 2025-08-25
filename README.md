@@ -75,12 +75,12 @@ This project was developed as part of a school group assignment to showcase mobi
 </p>
 
 ## 🚀 Getting Started
-	1.	Clone the repository:
+1.	Clone the repository:
 
-     git clone https://github.com/your-username/MyVirtualCloset.git
+          git clone https://github.com/your-username/MyVirtualCloset.git
 
-  2.	Open in Android Studio (Hedgehog or newer)
-	3.	Build & Run on an emulator or physical device (API 24+)
+2.	Open in Android Studio (Hedgehog or newer)
+3.	Build & Run on an emulator or physical device (API 24+)
 
 ⸻
 
