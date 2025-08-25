@@ -29,7 +29,7 @@ MyVirtualCloset is an Android app developed using Jetpack Compose for a sleek, m
 ✅ Functional core features implemented
 🚧 Additional enhancements and polish in progress (e.g., cloud storage, advanced try-on logic)
 
-📸 Screenshots (Optional)
+📸 Screenshots 
 <img width="257" alt="image" src="https://github.com/user-attachments/assets/2347de83-6224-47a8-85ce-333ae413ecf2" />
 
 <img width="270" alt="image" src="https://github.com/user-attachments/assets/44514e3b-651f-4c42-b68d-078cd9c1a5fd" />
