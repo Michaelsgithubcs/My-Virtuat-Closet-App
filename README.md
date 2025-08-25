@@ -1,4 +1,4 @@
-##👗 MyVirtualCloset
+#👗 MyVirtualCloset
 
 MyVirtualCloset is an Android app built with Jetpack Compose for a sleek, modern UI.
 It helps users manage their wardrobe digitally — allowing them to add, organize, favorite, and try on clothing items virtually.
