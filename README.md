@@ -8,9 +8,11 @@ This project was developed as part of a school group assignment to showcase mobi
 ⸻
 
 📱 Features
-	•	🧥 Virtual Closet: Upload and categorize clothing items with images.
-	•	⭐ Favorites: Long-press to add outfits or clothing items to your favorites.
-	•	🧑‍🎨 Designer Registration: Designers can register and manage their clothing contributions and sell their clothes to users.
+•	🧥 Virtual Closet: Upload and categorize clothing items with images.
+ 
+•	⭐ Favorites: Long-press to add outfits or clothing items to your favorites.
+ 
+•	🧑‍🎨 Designer Registration: Designers can register and manage their clothing contributions and sell their clothes to users.
 	•	👤 User Authentication: Sign up and log in as either a regular user or a designer.
 	•	🧭 Navigation: Seamless screen transitions using Jetpack Navigation.
 	•	📸 CameraX Support (optional): Capture outfits directly from the app.
