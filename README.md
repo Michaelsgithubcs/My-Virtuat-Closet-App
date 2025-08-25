@@ -8,27 +8,25 @@ This project was developed as part of a school group assignment to showcase mobi
 ⸻
 
 📱 Features
-	•	🧥 Virtual Closet – Upload and categorize clothing items with images
-	•	⭐ Favorites – Long-press to add outfits or clothing items to favorites
-	•	🧑‍🎨 Designer Registration – Designers can register, manage contributions, and sell clothes
-	•	👤 User Authentication – Sign up & log in as a user or designer
-	•	🧭 Navigation – Smooth transitions using Jetpack Navigation
-	•	📸 CameraX Support (optional) – Capture outfits directly from the app
-	•	🖼️ Image Preview & Try-On Simulation – View and try on items virtually
-	•	🛠️ Custom Local Database – Persist items & favorites with DatabaseHelper
-	•	🌐 Retrofit-ready – API integration support for future expansion
-	•	💾 SQLite Integration – Efficient local storage
+	•	🧥 Virtual Closet: Upload and categorize clothing items with images.
+	•	⭐ Favorites: Long-press to add outfits or clothing items to your favorites.
+	•	🧑‍🎨 Designer Registration: Designers can register and manage their clothing contributions and sell their clothes to users.
+	•	👤 User Authentication: Sign up and log in as either a regular user or a designer.
+	•	🧭 Navigation: Seamless screen transitions using Jetpack Navigation.
+	•	📸 CameraX Support (optional): Capture outfits directly from the app.
+	•	🖼️ Image Preview and Try-On Simulation: View and try on items virtually.
+	•	🛠️ Custom Local Database: Persist clothing items and favorites using a custom DatabaseHelper class.
+	•	🌐 Retrofit-ready: Built-in support for API integration using Retrofit (future-proofing).
+	•	💾 SQLite Integration: Efficient local data storage with SQLite.
 
-⸻
-
-🛠️ Tech Stack
-	•	Language: Kotlin
-	•	UI: Jetpack Compose + Material 3
-	•	Libraries: Android Jetpack (Navigation, Lifecycle, ViewModel)
-	•	Database: SQLite (via custom DatabaseHelper)
-	•	Image Loading: Coil
-	•	Networking: Retrofit (future-proofing)
-	•	Camera: CameraX (optional)
+🛠️ Technologies Used
+	•	Kotlin + Jetpack Compose
+	•	Android Jetpack Libraries (Navigation, Lifecycle, ViewModel)
+	•	SQLite (via custom DatabaseHelper)
+	•	CameraX (optional support)
+	•	Coil for image loading
+	•	Retrofit (included for potential future API use)
+	•	Material 3 + Compose UI components
 
 ⸻
 
