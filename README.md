@@ -34,8 +34,6 @@ MyVirtualCloset is an Android app developed using Jetpack Compose for a sleek, m
 
 <img width="270" alt="image" src="https://github.com/user-attachments/assets/44514e3b-651f-4c42-b68d-078cd9c1a5fd" />
 
-<img width="257" alt="image" src="https://github.com/user-attachments/assets/e2117ee3-8230-46b9-ab21-6ccf96a9a0c6" />
-
 <img width="258" alt="image" src="https://github.com/user-attachments/assets/4875bec5-7d55-42a9-bc37-038ae2bbd57b" />
 
 <img width="257" alt="image" src="https://github.com/user-attachments/assets/f4d3dcf0-605c-4669-9e0d-c4e16534571c" />
